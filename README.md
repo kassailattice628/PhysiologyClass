@@ -1,8 +1,8 @@
 # Quick NI-DAQ recording on MATLAB
 NIDAQ (USB6009) を使用して GUI つき簡易記録．
 
-Original: https://github.com/kassailattice628/Physiology_StudentExp.git
 ---
+Original: https://github.com/kassailattice628/Physiology_StudentExp.git
 ## Requirement
 1. Windwos 10/11で動作確認．  
 2. MATLAB 2022a で動作確認． appdesigner を使用しているので， バージョン違う場合，自動で色々変更される可能性あり．
@@ -45,7 +45,7 @@ Pre-Trig で設定した時間を経過してない場合は，，エラーが�
 もしくは， appdesigner 上から
 
 ---
-### Done
+## Done
 - Matlabのライセンスが CWL　になったため，オフラインでも使用できるようになった．
 - アプリ化したものは変更ができないので， appdesigner で作り直し．
 - 大まかな機能は，以前のバージョンと同じだが， MATLAB のバージョンアップにより daq toolbox のセッティングは大きく変更した．
